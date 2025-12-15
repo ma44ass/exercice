@@ -1,7 +1,8 @@
 2
 1 
 1
-
-0
-0
-0
+ 22 posts/first_post.md
+ 15 posts/second_post.md
+ 37 total
+# Learning Git
+Site Title: My Tech Blog Author: Your Name Theme: Dark Mode

@@ -1,6 +1,6 @@
 2
-1 
-1
+
+1 posts/first_post.md
  22 posts/first_post.md
  15 posts/second_post.md
  37 total
